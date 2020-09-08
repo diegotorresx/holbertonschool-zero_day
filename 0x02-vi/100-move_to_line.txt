@@ -1,0 +1,2 @@
+Command to move the cursor to line 32:
+:32<Return> or 32G
