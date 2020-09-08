@@ -1,0 +1,2 @@
+Comand by insert text before cursor:
+i

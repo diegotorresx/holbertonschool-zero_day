@@ -1,0 +1,3 @@
+Command to move cursor to end of current line
+
+$

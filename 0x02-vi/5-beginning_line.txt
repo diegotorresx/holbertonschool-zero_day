@@ -1,0 +1,3 @@
+Command to move cursor to start of current line:
+
+0 (zero)
