@@ -1,0 +1,3 @@
+Comando para jugar tetris en Emacs:
+
+Esc x
