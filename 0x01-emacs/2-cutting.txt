@@ -1,0 +1,2 @@
+The command to cut an entire line is:
+Ctrl-k

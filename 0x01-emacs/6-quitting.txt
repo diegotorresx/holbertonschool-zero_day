@@ -1,0 +1,2 @@
+Comando para salir de emacs:
+Ctrl-x-c

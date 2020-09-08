@@ -1,0 +1,2 @@
+El comando en Emacs para guardar un archivo es:
+C-x C-s

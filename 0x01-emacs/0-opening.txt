@@ -1,0 +1,2 @@
+Enb emacs para abrir un archivo el comando es 
+C-x C-f
